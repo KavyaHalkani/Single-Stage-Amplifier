@@ -1,0 +1,4 @@
+# Design of 5 pack Amplifier
+
+The design of single stage op-amp consists of differential amplifier at input and current mirror .The amplifier is designed to achieve the gain of 40dB, 
+Gain Bandwidth of 5MHz with power dissipation of less than 0.3mW.The design is carried out in Cadence Virtuoso 180nm technology.
